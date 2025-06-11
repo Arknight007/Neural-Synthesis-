@@ -23,8 +23,8 @@
 
 <!-- Two Square/Vertical Screenshots Side by Side -->
 <p align="center">
-  <img src="pss.png" alt="Primary Screen View" width="48%" style="margin-right: 4px;"/>
-  <img src="lss.png" alt="List View Screen" width="48%"/>
+  <img src="pss.png" alt="Primary Screen View" width="42%" style="margin-right: 5px;"/>
+  <img src="lss.png" alt="List View Screen" width="50%"/>
 </p>
 
 > _All screenshots can be relocated in the `./screenshots/` directory. Adjust filenames and folder name or paths as per your project structure._
