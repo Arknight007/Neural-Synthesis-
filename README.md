@@ -18,7 +18,7 @@
 
 <!-- Horizontal Screenshot -->
 <p align="center">
-  <img src="hss.png" alt="Full-width Horizontal View" width="100%"/>
+  <img src="hss.gif" alt="Full-width Horizontal View" width="100%"/>
 </p>
 
 <!-- Two Square/Vertical Screenshots Side by Side -->
